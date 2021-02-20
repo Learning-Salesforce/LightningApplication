@@ -6,6 +6,25 @@
                 <h2>Header</h2>
             </div>
         </lightning:layoutItem>
+        <lightning:layoutItem padding="around-small" size="12">
+            <lightning:layout>
+                <lightning:layoutItem padding="around-small" size="3"> 
+                    <div style="height: 50px;border: solid 1px #ccc;padding: 1rem;">
+
+                    </div>
+                </lightning:layoutItem>
+                <lightning:layoutItem padding="around-small" size=""6> 
+                    <div style="height: 50px;border: solid 1px #ccc;padding: 1rem;">
+
+                    </div>
+                </lightning:layoutItem>
+                <lightning:layoutItem padding="around-small" size="3"> 
+                    <div style="height: 50px;border: solid 1px #ccc;padding: 1rem;">
+
+                    </div>
+                </lightning:layoutItem>
+            </lightning:layout>
+        </lightning:layoutItem>
     </lightning:layout>
 </div>	
 
